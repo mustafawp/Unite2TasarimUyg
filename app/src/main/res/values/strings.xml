@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unite2_EkranTasarimi</string>
+    <string name="bilisimyazi">Bilişim</string>
+    <string name="sonrakiuygulama">Sonraki Uygulama</string>
+    <string name="sifrenizigirin">Şifrenizi Girin.</string>
+    <string name="resim">TODO</string>
+    <string name="secenek1">Seçenek 1</string>
+    <string name="secenek2">Seçenek 2</string>
+    <string name="secenek3">Seçenek 3</string>
+    <string name="kabul1">Kabul 1</string>
+    <string name="kabul2">Kabul 2</string>
+    <string name="kabul3">Kabul 3</string>
+    <string name="yazi1">Yazı 1</string>
+    <string name="yazi2">Yazı 2</string>
+    <string name="yazi3">Yazı 3</string>
+</resources>
